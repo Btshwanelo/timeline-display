@@ -61,10 +61,10 @@ function App() {
       <h2 className={styles.timelineHeading}>Timeline Data</h2>
       <div className={styles.buttons}>
         <button className={styles.button} onClick={() => setTab(1)}>
-          One record
+          Record-227
         </button>
         <button className={styles.button} onClick={() => setTab(2)}>
-          All record
+          All records
         </button>
       </div>
       <Suspense fallback={<div>Loading...</div>}>
