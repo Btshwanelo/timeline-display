@@ -18,7 +18,7 @@ This project requires Node.js and npm (Node Package Manager) to be installed on 
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/your-project-name.git
+   git clone [https://github.com/Btshwanelo/timeline-display](https://github.com/Btshwanelo/timeline-display)
 
 2. Navigate to the project directory:
 
